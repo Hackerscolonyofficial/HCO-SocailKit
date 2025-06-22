@@ -8,18 +8,26 @@
 apt update && apt upgrade -y
 ```
 ```sh
-pkg install python git -y
+pkg install git
+```
+```sh
+pkg install python -y
 ```
 ```sh
 pip install requests bs4 rich pyfiglet flask instaloader distro
 ```
 ```sh
-git clone
+git clone https://github.com/Hackerscolonyofficial/HCO-SocailKit.git
 ```
 ```sh
-cd
+cd HCO-SocailKit
 ```
 ```sh
+chmod +x *
+```
+```sh
+python3 HCO-SocialKit.py
+```
 
 ### Now to use this tool you will be automatically redirected to our YouTube channel do
 ### subscribe and click on Bell icon and come back to Termux and you Will be able to use
