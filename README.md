@@ -1,6 +1,6 @@
 ### Hey Guys 😎
 
-### Hack or Recover BGMI Account by sending a Link
+### Hack or Recover Insta Fb or Snapchat Account using Bruteforce Attack Tool
 
 ### Follow the command below to install the Tool in Your Termux
 
